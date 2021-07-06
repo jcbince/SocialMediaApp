@@ -1,10 +1,9 @@
 //
 //  ViewController.swift
-//  Project1
+// Social Media App / UIActivityView
 //
-//  Created by JCBINCE
+//  Created by JCBINCE on 2021/05/07.
 //
-
 import UIKit
 
 class ViewController: UITableViewController {

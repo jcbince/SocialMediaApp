@@ -20,5 +20,7 @@
 	<string>1</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We need to save photo&apos;s you like!</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>We need to save photo&apos;s you like!</string>
 </dict>
 </plist>

@@ -1,9 +1,8 @@
 //
 //  AppDelegate.swift
-//  Project1
+// Social Media App / UIActivityView
 //
-//  Created by TwoStraws on 11/08/2016.
-//  Copyright © 2016 Paul Hudson. All rights reserved.
+//  Created by JCBINCE on 2021/05/07.
 //
 
 import UIKit
